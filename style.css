@@ -1,0 +1,34 @@
+.titulo{
+    color: rgb(100, 99, 99);
+    font-style: italic;
+    text-align: center;
+}
+
+.paragrafo{
+    color: blue;
+    font-style: oblique;
+    text-align: center;
+}
+
+
+
+
+.botoes-cores{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cor_misturada1{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid #000;
+    align-items: center;
+    display: flex;
+}
+
